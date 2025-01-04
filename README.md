@@ -1,5 +1,6 @@
-🌟 DailyDo App
-DailyDo is a sleek task management application built with React and Tailwind CSS. With an intuitive drag-and-drop feature, it lets you organize your daily tasks effortlessly.
+# 🌟 DailyDo App
+
+DailyDo is a sleek task management application built with **React** and **Tailwind CSS**. With an intuitive drag-and-drop feature, it lets you organize your daily tasks effortlessly. 🗂️
 
 🚀 Features
 - ✏️ Create New Tasks
